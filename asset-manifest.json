@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoNRaGitTwo/CalcuWK-Frontend/static/css/main.79d19d76.css",
+    "main.js": "/MoNRaGitTwo/CalcuWK-Frontend/static/js/main.91af1a1d.js",
+    "static/js/453.b3f92070.chunk.js": "/MoNRaGitTwo/CalcuWK-Frontend/static/js/453.b3f92070.chunk.js",
+    "index.html": "/MoNRaGitTwo/CalcuWK-Frontend/index.html",
+    "main.79d19d76.css.map": "/MoNRaGitTwo/CalcuWK-Frontend/static/css/main.79d19d76.css.map",
+    "main.91af1a1d.js.map": "/MoNRaGitTwo/CalcuWK-Frontend/static/js/main.91af1a1d.js.map",
+    "453.b3f92070.chunk.js.map": "/MoNRaGitTwo/CalcuWK-Frontend/static/js/453.b3f92070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.91af1a1d.js"
+  ]
+}
